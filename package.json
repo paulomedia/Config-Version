@@ -1,0 +1,24 @@
+{
+  "name": "config-version",
+  "distName": "configVersion",
+  "description": "Returns a version for some config",
+  "projectType": "services",
+  "author": {
+    "name": "Paulo Ferreira",
+    "email": "paulo.media@gmail.com"
+  },
+  "contributors": [],
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">= 6.7.0"
+  },
+  "main": "dist/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomedia/Config-Version.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}

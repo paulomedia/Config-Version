@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+.DS_Store
+src/.tmp
+dist/
+.settings/
+.project
+npm-shrinkwrap.json
+.vscode
+*~
